@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5134DAD1-1151-40BE-8AA1-43CA0EC9F380</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mode</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F796A939DA9105FB9073BE6A05F4D68B0452AAD</key>
+		<string>github.com:cloudhm/app</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mode.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F796A939DA9105FB9073BE6A05F4D68B0452AAD</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:cloudhm/app</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4F796A939DA9105FB9073BE6A05F4D68B0452AAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F796A939DA9105FB9073BE6A05F4D68B0452AAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
